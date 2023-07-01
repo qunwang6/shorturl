@@ -1,0 +1,25 @@
+{
+  "name": "c-url-shortener",
+  "version": "1.0.2",
+  "description": "An npm package that converts your long and non-long urls into short urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bd-ans/c-url-shortener.git"
+  },
+  "keywords": [
+    "url",
+    "shortener",
+    "short",
+    "url"
+  ],
+  "author": "elayt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bd-ans/c-url-shortener/issues"
+  },
+  "homepage": "https://github.com/bd-ans/c-url-shortener#readme"
+}
