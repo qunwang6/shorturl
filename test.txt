@@ -1,1 +1,1 @@
-{"code":200,"message":"","data":{"a":"https:\/\/jd.com\/","b":"#ffffff","c":1,"d":""}}
+{"code":200,"message":"","data":{"a":"https:\/\/sogo.com\/","b":"#ffffff","c":1,"d":""}}
